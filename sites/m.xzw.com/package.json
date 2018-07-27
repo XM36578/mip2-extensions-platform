@@ -1,13 +1,13 @@
 {
-  "name": "xiongzhang.baidu.com",
+  "name": "XM36578",
   "version": "0.0.1",
-  "description": "熊掌组件",
+  "description": "星座屋MIP",
   "scripts": {
     "dev": "mip2 dev",
     "build": "mip2 build",
     "lint": "eslint {**/*,**}.{vue,js}"
   },
-  "author": "huangjing02 (huangjing02@baidu.com)",
+  "author": "XM36578 (1643369868@qq.com)",
   "dependencies": {},
   "devDependencies": {
     "eslint": "^4.19.1",
